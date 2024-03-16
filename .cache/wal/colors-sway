@@ -1,0 +1,21 @@
+set $wallpaper /home/lucid/.wall/ev1.jpg
+
+set $background #04060A
+set $foreground #b0a4be
+
+set $color0 #04060A
+set $color1 #4D4458
+set $color2 #644F5C
+set $color3 #524E6A
+set $color4 #6E596B
+set $color5 #726877
+set $color6 #7E8B6E
+set $color7 #b0a4be
+set $color8 #7b7285
+set $color9 #4D4458
+set $color10 #644F5C
+set $color11 #524E6A
+set $color12 #6E596B
+set $color13 #726877
+set $color14 #7E8B6E
+set $color15 #b0a4be

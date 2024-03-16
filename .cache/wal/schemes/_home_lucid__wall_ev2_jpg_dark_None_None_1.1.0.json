@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/lucid/.wall/ev2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020613",
+        "foreground": "#a194b7",
+        "cursor": "#a194b7"
+    },
+    "colors": {
+        "color0": "#020613",
+        "color1": "#4D355C",
+        "color2": "#4E3672",
+        "color3": "#60574E",
+        "color4": "#554475",
+        "color5": "#63497A",
+        "color6": "#B66447",
+        "color7": "#a194b7",
+        "color8": "#706780",
+        "color9": "#4D355C",
+        "color10": "#4E3672",
+        "color11": "#60574E",
+        "color12": "#554475",
+        "color13": "#63497A",
+        "color14": "#B66447",
+        "color15": "#a194b7"
+    }
+}
